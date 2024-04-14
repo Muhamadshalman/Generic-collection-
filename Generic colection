@@ -9,8 +9,8 @@ public class Mahasiswaku {
 
         Mahasiswa<String, String, Integer> m = new Mahasiswa<>();
 
-        m.setNim("20220040156");
-        m.setName("MUHAMAD ALIF ALFARIZ");
+        m.setNim("20220040104");
+        m.setName("MUHAMAD SHALMAN");
         m.setClas(22);
 
         System.out.println(m.getNim());
